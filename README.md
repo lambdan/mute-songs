@@ -9,4 +9,4 @@ mute specified sections of video (when uploading GTA games to youtube)
 4. Run `python mute.py list.txt`
 5. Copy the `ffmpeg` command and run it
 6. Upload this new version to Youtube
-7. Repat from step 2 until YouTube is happy
+7. Repeat from step 2 until YouTube is happy
